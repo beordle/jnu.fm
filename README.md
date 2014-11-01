@@ -21,7 +21,6 @@ http://server/class/get?user=2012052690&password=143217&year=2012&term=2
 * term 学期 可选值 1:上学期 2:下学期
 
 
-
 >>使用学号及教务处密码直接获取考试信息  
 http://server/kaoshi/get?user=2012052690&password=143217&year=2012&term=2  
 参数释义  
