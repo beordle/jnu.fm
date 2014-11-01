@@ -9,6 +9,8 @@ jnu.fm
 >>* query 搜索关键字 AND OR 等图书馆自带高级搜索功能
 >>* page 页码
 
+
+
 >>使用学号及教务处密码直接获取课表
 >>http://server/class/get?user=2012052690&password=143217&year=2012&term=2
 >>参数释义
@@ -16,6 +18,8 @@ jnu.fm
 >>* password 教务处密码
 >>* year=2012 课表年份  教务处对应 2012-2013
 >>* term 学期 可选值 1:上学期 2:下学期
+
+
 
 >>使用学号及教务处密码直接获取考试信息  
 >>http://server/kaoshi/get?user=2012052690&password=143217&year=2012&term=2  
