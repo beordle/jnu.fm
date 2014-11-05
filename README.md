@@ -35,7 +35,7 @@ http://server/kaoshi/get?user=2012052690&password=143217&year=2012&term=2
 * password 教务处密码    
 * year=2012 课表年份  教务处对应 2012-2013  
 * term 学期 可选值 1:上学期 2:下学期  
-* 
+
 
 
 ====
