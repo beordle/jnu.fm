@@ -53,7 +53,7 @@ http://server/card/today?stuid=2012052691&password=052691
 
 http://server/card/rest?stuid=2012052691&password=052691
 参数释义  
-* studi 学生学号  
+* stuid 学生学号  
 * password  校园卡密码    
 
 
