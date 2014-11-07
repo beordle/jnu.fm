@@ -1,5 +1,0 @@
-
-
-make.bat html
-
-pause
